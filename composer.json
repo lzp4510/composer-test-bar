@@ -1,0 +1,16 @@
+{
+    "name": "test/composer-test-bar",
+    "description": "测试composer",
+    "autoload": {
+        "psr-4": {
+            "Test\\ComposerTestBar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lizhipeng",
+            "email": "1932769665@qq.com"
+        }
+    ],
+    "require": {}
+}
